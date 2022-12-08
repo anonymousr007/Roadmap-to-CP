@@ -8,4 +8,6 @@
 ---
 
 - Catalog 
-- 
+  - General Advice
+    - How to come up with solutions?
+    
