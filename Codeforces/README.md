@@ -2,10 +2,12 @@
 
 ## Codeforces Round (Div. 2)
 
-| Date and Time    | Codeforces Round (Div. 2) | 
-| ---------------- | ------------------------- |
-| **January 2022** | 31 Questions              |
+| Date and Time    | Codeforces Round (Div. 2) |||
+| ---------------- | ------------------------- |--- | --- |
+| **January 2022** | 31 Questions              |||
 || [Codeforces Round #765 (Div. 2) - 6](https://codeforces.com/contest/1625)
+||| [A. Ancient Civilization](https://codeforces.com/contest/1625/problem/A) | `bitmasks` `greedy` `math` `800` | 
+||| [B. Elementary Particles](https://codeforces.com/contest/1625/problem/B) | `brute force` `greedy` `sortings` `1100` |
 || [Codeforces Round #766 (Div. 2) - 6](https://codeforces.com/contest/1627)
 || [Codeforces Round #767 (Div. 2) - 7](https://codeforces.com/contest/1629)
 || [Codeforces Round #768 (Div. 2) - 6](https://codeforces.com/contest/1631)
