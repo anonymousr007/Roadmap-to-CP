@@ -2,67 +2,67 @@
 
 ## Codeforces Round (Div. 2)
 
-| Date and Time | Codeforces Round (Div. 2) | 
-| ------------- | ------------------------- |
-| January 2022  | 
+| Date and Time    | Codeforces Round (Div. 2) | 
+| ---------------- | ------------------------- |
+| **January 2022** |
 || [Codeforces Round #765 (Div. 2)](https://codeforces.com/contest/1625)
 || [Codeforces Round #766 (Div. 2)](https://codeforces.com/contest/1627)
 || [Codeforces Round #767 (Div. 2)]()
 || [Codeforces Round #768 (Div. 2)]()
 || [Codeforces Round #769 (Div. 2)]()
-| February 2022 |
+| **February 2022** | 
 || [Codeforces Round #770 (Div. 2)]()
 || [Codeforces Round #771 (Div. 2)]()
 || [Codeforces Round #772 (Div. 2)]()
 || [Codeforces Round #773 (Div. 2)]()
-| March 2022 |
+| **March 2022** | 
 || [Codeforces Round #774 (Div. 2)]()
 || [Codeforces Round #777 (Div. 2)]()
 || [Codeforces Round #779 (Div. 2)]()
-| April 2022 |
+| **April 2022** | 
 || [Codeforces Round #781 (Div. 2)]()
 || [Codeforces Round #782 (Div. 2)]()
 || [Codeforces Round #783 (Div. 2)]()
 || [Codeforces Round #785 (Div. 2)]()
-| May 2022 |
+| **May 2022** | 
 || [Codeforces Round #788 (Div. 2)]()
 || [Codeforces Round #789 (Div. 2)]()
 || [Codeforces Round #791 (Div. 2)]()
 || [Codeforces Round #793 (Div. 2)]()
 || [Codeforces Round #794 (Div. 2)]()
-| June 2022 |
+| **June 2022** | 
 || [Codeforces Round #796 (Div. 2)]()
 || [Codeforces Round #798 (Div. 2)]()
 || [Codeforces Round #800 (Div. 2)]()
 || [Codeforces Round #802 (Div. 2)]()
 || [Codeforces Round #803 (Div. 2)]()
-| July 2022 |
+| **July 2022** | 
 || [Codeforces Round #804 (Div. 2)]()
 || [Codeforces Round #807 (Div. 2)]()
 || [Codeforces Round #808 (Div. 2)]()
 || [Codeforces Round #809 (Div. 2)]()
 || [Codeforces Round #810 (Div. 2)]()
-| August 2022 |
+| **August 2022** | 
 || [Codeforces Round #812 (Div. 2)]()
 || [Codeforces Round #813 (Div. 2)]()
 || [Codeforces Round #814 (Div. 2)]()
 || [Codeforces Round #815 (Div. 2)]()
 || [Codeforces Round #816 (Div. 2)]()
-| September 2022 |
+| **September 2022** | 
 || [Codeforces Round #818 (Div. 2)]()
 || [Codeforces Round #821 (Div. 2)]()
 || [Codeforces Round #822 (Div. 2)]()
 || [Codeforces Round #823 (Div. 2)]()
-| October 2022 |
+| **October 2022** | 
 || [Codeforces Round #824 (Div. 2)]()
 || [Codeforces Round #825 (Div. 2)]()
 || [Codeforces Round #829 (Div. 2)]()
 || [Codeforces Round #830 (Div. 2)]()
-| November 2022 |
+| **November 2022** | 
 || [Codeforces Round #832 (Div. 2)]()
 || [Codeforces Round #833 (Div. 2)]()
 || [Codeforces Round #836 (Div. 2)]()
-| December 2022 |
+| **December 2022** | 
 || [Codeforces Round #837 (Div. 2)]()
 || [Codeforces Round #838 (Div. 2)]()
 || [Codeforces Round # (Div. 2)]()
