@@ -5,20 +5,20 @@
 | Date and Time    | Codeforces Round (Div. 2) | 
 | ---------------- | ------------------------- |
 | **January 2022** |
-|| [Codeforces Round #765 (Div. 2)](https://codeforces.com/contest/1625)
-|| [Codeforces Round #766 (Div. 2)](https://codeforces.com/contest/1627)
-|| [Codeforces Round #767 (Div. 2)]()
-|| [Codeforces Round #768 (Div. 2)]()
-|| [Codeforces Round #769 (Div. 2)]()
+|| [Codeforces Round #765 (Div. 2) - 6](https://codeforces.com/contest/1625)
+|| [Codeforces Round #766 (Div. 2) - 6](https://codeforces.com/contest/1627)
+|| [Codeforces Round #767 (Div. 2) - 7](https://codeforces.com/contest/1629)
+|| [Codeforces Round #768 (Div. 2) - 6](https://codeforces.com/contest/1631)
+|| [Codeforces Round #769 (Div. 2) - 6](https://codeforces.com/contest/1632)
 | **February 2022** | 
-|| [Codeforces Round #770 (Div. 2)]()
-|| [Codeforces Round #771 (Div. 2)]()
-|| [Codeforces Round #772 (Div. 2)]()
-|| [Codeforces Round #773 (Div. 2)]()
+|| [Codeforces Round #770 (Div. 2) - 6](https://codeforces.com/contest/1634)
+|| [Codeforces Round #771 (Div. 2) - 6](https://codeforces.com/contest/1638)
+|| [Codeforces Round #772 (Div. 2) - 6](https://codeforces.com/contest/1635)
+|| [Codeforces Round #773 (Div. 2) - 6](https://codeforces.com/contest/1642)
 | **March 2022** | 
-|| [Codeforces Round #774 (Div. 2)]()
-|| [Codeforces Round #777 (Div. 2)]()
-|| [Codeforces Round #779 (Div. 2)]()
+|| [Codeforces Round #774 (Div. 2) - 6](https://codeforces.com/contest/1646)
+|| [Codeforces Round #777 (Div. 2) - 6](https://codeforces.com/contest/1647)
+|| [Codeforces Round #779 (Div. 2) - 7](https://codeforces.com/contest/1658)
 | **April 2022** | 
 || [Codeforces Round #781 (Div. 2)]()
 || [Codeforces Round #782 (Div. 2)]()
@@ -59,11 +59,11 @@
 || [Codeforces Round #829 (Div. 2)]()
 || [Codeforces Round #830 (Div. 2)]()
 | **November 2022** | 
-|| [Codeforces Round #832 (Div. 2)]()
-|| [Codeforces Round #833 (Div. 2)]()
-|| [Codeforces Round #836 (Div. 2)]()
+|| [Codeforces Round #832 (Div. 2)](https://codeforces.com/contest/1747)
+|| [Codeforces Round #833 (Div. 2)](https://codeforces.com/contest/1748)
+|| [Codeforces Round #836 (Div. 2)](https://codeforces.com/contest/1758)
 | **December 2022** | 
-|| [Codeforces Round #837 (Div. 2)]()
+|| [Codeforces Round #837 (Div. 2)](https://codeforces.com/contest/1771)
 || [Codeforces Round #838 (Div. 2)]()
 || [Codeforces Round # (Div. 2)]()
 || [Codeforces Round # (Div. 2)]()
