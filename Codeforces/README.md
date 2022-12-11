@@ -4,27 +4,27 @@
 
 | Date and Time    | Codeforces Round (Div. 2) | 
 | ---------------- | ------------------------- |
-| **January 2022** |
+| **January 2022** | 31 Questions              |
 || [Codeforces Round #765 (Div. 2) - 6](https://codeforces.com/contest/1625)
 || [Codeforces Round #766 (Div. 2) - 6](https://codeforces.com/contest/1627)
 || [Codeforces Round #767 (Div. 2) - 7](https://codeforces.com/contest/1629)
 || [Codeforces Round #768 (Div. 2) - 6](https://codeforces.com/contest/1631)
 || [Codeforces Round #769 (Div. 2) - 6](https://codeforces.com/contest/1632)
-| **February 2022** | 
+| **February 2022** | 24 Questions             |
 || [Codeforces Round #770 (Div. 2) - 6](https://codeforces.com/contest/1634)
 || [Codeforces Round #771 (Div. 2) - 6](https://codeforces.com/contest/1638)
 || [Codeforces Round #772 (Div. 2) - 6](https://codeforces.com/contest/1635)
 || [Codeforces Round #773 (Div. 2) - 6](https://codeforces.com/contest/1642)
-| **March 2022** | 
+| **March 2022** | 19 Questions                |
 || [Codeforces Round #774 (Div. 2) - 6](https://codeforces.com/contest/1646)
 || [Codeforces Round #777 (Div. 2) - 6](https://codeforces.com/contest/1647)
 || [Codeforces Round #779 (Div. 2) - 7](https://codeforces.com/contest/1658)
-| **April 2022** | 
+| **April 2022** | 23 Questions                |
 || [Codeforces Round #781 (Div. 2) - 5](https://codeforces.com/contest/1665)
 || [Codeforces Round #782 (Div. 2) - 6](https://codeforces.com/contest/1659)
 || [Codeforces Round #783 (Div. 2) - 6](https://codeforces.com/contest/1668)
 || [Codeforces Round #785 (Div. 2) - 6](https://codeforces.com/contest/1673)
-| **May 2022** | 
+| **May 2022** | 31 Questions |
 || [Codeforces Round #788 (Div. 2) - 6](https://codeforces.com/contest/1670)
 || [Codeforces Round #789 (Div. 2) - 7](https://codeforces.com/contest/1678)
 || [Codeforces Round #791 (Div. 2) - 6](https://codeforces.com/contest/1679)
