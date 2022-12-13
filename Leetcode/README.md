@@ -2,6 +2,7 @@
 
 - [Top 100 Liked Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
 - [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
+- [Seanprashad - LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)
 - [Study Plan](https://leetcode.com/study-plan/)
   - [Comprehensive Study Plans - LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
   - [Comprehensive Study Plans - Data Structure](https://leetcode.com/study-plan/data-structure/)
