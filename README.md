@@ -1,9 +1,4 @@
-# 100 Weeks of Competitive Programming
+# 50 Weeks of Competitive Programming
 
----
-- Kickstart
-- Codejam
+- CP Algorithms
 - Codeforces
-
----
-
