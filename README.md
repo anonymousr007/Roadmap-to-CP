@@ -8,8 +8,7 @@
 
 ### Codeforces Questions System
 
-- Week 00 to 10 - A | B
-- Week 11 to 20 - A | B
-- Week 21 to 30 - A | B | C
-- Week 31 to 40 - A | B | C
-- Week 41 to 50 - A | B | C | D
+- Week 00 to 05 - Introduction and Basics 
+- Week 06 to 25 - A | B
+- Week 26 to 45 - A | B | C
+- Week 46 to 50 - A | B | C | D
