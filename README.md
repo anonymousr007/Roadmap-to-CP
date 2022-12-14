@@ -16,16 +16,16 @@
 ### Mathematics Syllabus for Competitive Programming 
 
 - Algebra
-Fundamentals
-Binary Exponentiation
-Factoring Exponentiation
-Euclidean algorithm for computing the greatest common divisor
-Extended Euclidean Algorithm
-Linear Diophantine Equations
-Fibonacci Numbers
-Prime numbers
-Sieve of Eratosthenes
-Linear Sieve
+  - Fundamentals
+    - Binary Exponentiation
+    - Factoring Exponentiation
+    - Euclidean algorithm for computing the greatest common divisor
+    - Extended Euclidean Algorithm
+    - Linear Diophantine Equations
+    - Fibonacci Numbers
+  - Prime numbers
+    - Sieve of Eratosthenes
+    - Linear Sieve
 Primality tests
 Integer factorization
 Number-theoretic functions
