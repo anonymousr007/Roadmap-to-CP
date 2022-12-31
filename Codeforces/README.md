@@ -66,9 +66,7 @@
 || [Codeforces Round #836 (Div. 2) - 6](https://codeforces.com/contest/1758)
 | **December 2022** | 
 || [Codeforces Round #837 (Div. 2) - 6](https://codeforces.com/contest/1771)
-|| [Codeforces Round #838 (Div. 2) - ]()
-|| [Codeforces Round # (Div. 2)]()
-|| [Codeforces Round # (Div. 2)]()
+|| [Codeforces Round #838 (Div. 2) - 7](https://codeforces.com/contest/1762)
 
 ## Catalog 
 
