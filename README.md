@@ -14,8 +14,6 @@
 | 01   | Wednesday | [Codeforces Round #696 (Div. 2) - A. Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) |
 | 01   | Thursday  | [Codeforces Round #698 (Div. 2) - A. Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) |
 | 01   | Friday    | Repeat all Four Problems of Monday, Tuesday, Wednesday and Thursday |
-| 01   | Saturday  | Meeting on (Monday + Tuesday) Problem and (C++ Basics) |
-| 01   | Sunday    | Meeting on (Wednesday + Thursday) Problem and (Complexity Analysis) |
 
 ## Week 2: 09th to 15th January 2023
 
