@@ -1,4 +1,4 @@
-# 50 Weeks of Competitive Programming
+# 52 Weeks of Competitive Programming
 
 - CP Algorithms
 - Codeforces
@@ -7,9 +7,9 @@
 
 ### Codeforces Questions System
 
-- Week 00 to 05 - Introduction and Basics 
-- Week 06 to 25 - A | B
-- Week 26 to 45 - A | B | C
-- Week 46 to 50 - A | B | C | D
+- Week 01 to 04 - C++ and Compexity Analysis
+- Week 05 to 20 - A
+- Week 21 to 36 - A | B
+- Week 37 to 52 - A | B | C 
 
 ### Mathematics Syllabus for Competitive Programming 
